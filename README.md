@@ -174,6 +174,6 @@ static void tcindex_destroy(struct tcf_proto *tp, bool rtnl_held,
 
    
 
-The sorted full exploit is provided and can be read it if you want to know more. 
+The sorted full exploit is provided and can be read if you want to know more. 
 
 If you feel this writeup is helpful, you can give me a follow on [twitter](https://twitter.com/__nightu__). Thanks for reading!
