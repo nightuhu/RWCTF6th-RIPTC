@@ -2,7 +2,7 @@
 
 ## Preface
 
-RIPTC is a hard (**1** solve/ 2291 teams) realworld linux kernel challenge in Real World CTF 5th.
+RIPTC is a hard (**1** solve/ 2291 teams) realworld linux kernel challenge in Real World CTF 6th.
 
 And I managed to solve it after a day's hard work playing the CTF with Nu1L.
 
@@ -170,7 +170,7 @@ static void tcindex_destroy(struct tcf_proto *tp, bool rtnl_held,
    }
    ```
 
-6.  To save time, I use Kylebot's cool trick `Telefork` to return to user mode, which is what I learned by reading this his excellent KCTF walkthrough [[CVE-2022-1786\] A Journey To The Dawn | kylebot's Blog](https://blog.kylebot.net/2022/10/16/CVE-2022-1786/#Day-7-The-Dawn).
+6.  To save time, I use Kylebot's cool trick `Telefork` to return to user mode, which is what I learned by reading this his excellent KCTF walkthrough [CVE-2022-1786\] A Journey To The Dawn | kylebot's Blog](https://blog.kylebot.net/2022/10/16/CVE-2022-1786/#Day-7-The-Dawn).
 
    
 
